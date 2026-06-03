@@ -1,5 +1,6 @@
 # IDE metadata
 .idea/
+*.iml
 
 # LaTeX build products
 *.aux

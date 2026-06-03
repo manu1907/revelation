@@ -61,21 +61,30 @@ Core methodological commitments:
 
 ## Core Technical Claims To Develop
 
-- The verses have a reduced, elliptical form and an expanded, non-elliptical form.
-- The passage contains seven core verb-like heads or verbal phrases, with `apokalypsis` treated as a noun functioning verbally.
-- `dei genesthai` is important but is not counted as one of the seven core heads.
+- The verses have a surface/reduced/elliptical form and an underlying/expanded/non-elliptical form.
+- The reduced form is the form present in the Greek editions.
+- The passage contains seven core verbal heads, with `apokalypsis` treated as a special non-finite or gerund-like verbal head.
+- `dei` and `genesthai` are important but are not counted among the seven core verbal heads because they belong to a modifying clause.
 - All seven core phrases are elliptical.
-- Six of the phrases are arranged chiastically.
-- The chiasm allows reinstatement of ellipted constituents.
+- Six transmission phrases are arranged chiastically as A-B-C-C'-B'-A'.
+- The chiasm begins at the lexical level and percolates upward to the phrasal level.
+- The chiasm allows reinstatement of ellipted dependents.
 - Reinstated constituents allow comparison and contrast among the phrase heads.
 - The resulting structure changes the referents, agents, objects, and sequence often assumed by translators and commentators.
 
 ## Key Terms
 
 - Ellipsis: the omission of a constituent that must be supplied for full sense.
-- Reduced form: the compact textual form as received and normally translated.
-- Expanded form: the analytically reconstructed form with ellipted constituents made explicit.
-- Core phrase: one of the major verb-like actions or verbal heads in Revelation 1:1-3.
+- Surface form: the form of Revelation 1:1-3 as it appears in the Greek editions.
+- Elliptical form: the same form considered as containing omitted dependents.
+- Reduced form: the same form considered as compact and requiring expansion.
+- Expanded form: the analytically reconstructed form with ellipted dependents made explicit.
+- Non-elliptical form: the expanded form considered as no longer omitting required dependents.
+- Underlying form: the structural relation beneath the surface arrangement.
+- Core verbal head: a verbal head, including one verbal noun, that participates in forming a main non-modifying clause or clause-like unit.
+- Core clause: a clause or clause-like unit headed by a core verbal head.
+- Non-core verb: a verbal head that forms a modifying clause rather than one of the main clause-like units.
+- Core phrase: one of the major phrases headed by a core verbal head in Revelation 1:1-3.
 - Head: the central word or phrase governing a unit.
 - Chiasm: an arrangement in which corresponding units mirror each other, often in an A-B-C-C'-B'-A' pattern.
 - Signify: to communicate by signs, symbolic indication, or marked representation, not merely to state directly.

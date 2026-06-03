@@ -50,14 +50,16 @@ Core moves:
 
 ### Chapter 5: Seven Core Phrases
 
-Purpose: Identify the seven core verb-like heads or verbal phrases.
+Purpose: Identify the seven core verbal heads and the phrases they head.
 
 Core moves:
 
-- Explain why `apokalypsis` is treated functionally as verbal.
-- Explain why `dei genesthai` is important but not counted as a core phrase.
-- List the seven core phrases.
+- Define core and non-core verbal heads.
+- Explain why `apokalypsis` is treated as a special non-finite or gerund-like verbal head.
+- Explain why `dei` and `genesthai` are important but not counted as core.
+- List the seven core verbal heads.
 - Show that each phrase is elliptical.
+- Distinguish the chiastic nucleus from the extranuclear reception element `eiden`.
 
 ### Chapter 6: Ellipsis As Evidence
 
@@ -77,6 +79,8 @@ Purpose: Present the six-phrase chiastic arrangement.
 Core moves:
 
 - Lay out the proposed A-B-C-C'-B'-A' structure.
+- Show that the chiasm begins at the lexical level.
+- Show how the lexical chiasm percolates upward into phrasal chiasm.
 - Explain what each pair contributes.
 - Show how the structure licenses reinstatement of ellipted constituents.
 - Mark which parts of the case carry the most evidential weight.

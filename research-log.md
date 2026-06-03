@@ -140,12 +140,15 @@ Evidence needed:
 - Studies on Revelation's opening.
 - Studies on chiasm and ellipsis.
 - Studies on signifying/signs in Revelation.
+- Studies on verbal nouns, nominalization, and gerund-like function.
+- Studies on semantic fields of transfer, communication, transmission, reception, testimony, and seeing.
 
 ## Commentator Comparison Table Draft
 
 Columns to create later:
 
 - Source.
+- Type of source: translation, technical commentary, pastoral commentary, study Bible, monograph.
 - `apokalypsis iesou christou`.
 - Referent of `auto`.
 - Subject of `deixai`.
@@ -153,7 +156,69 @@ Columns to create later:
 - Meaning of `en tachei`.
 - Handling of `esemanen`.
 - Handling of `aposteilas`.
+- Treatment of `eiden`.
+- Whether Revelation 1:1-3 is read linearly.
+- Whether the author identifies ellipsis.
+- Whether the author identifies structural symmetry.
 - Notes on method.
+
+## Structural Research Tasks
+
+### Core and non-core verbal heads
+
+Questions:
+
+- What linguistic terminology best describes the distinction between core verbal heads and verbal heads of modifying clauses?
+- Should the book use "core verbal head," "main verbal head," "nuclear verbal head," or another term?
+- How can `apokalypsis` be described as verbal in function without overstating the case?
+
+Evidence needed:
+
+- Grammars on nominalization and verbal nouns.
+- Linguistic sources on clause heads and modifying clauses.
+- Greek grammar sources on infinitives, participles, and nominal constructions.
+
+### Lexical chiasm
+
+Questions:
+
+- What criteria show that chiasm can begin at the lexical level?
+- How should the book defend the move from lexical chiasm to phrasal chiasm?
+- What prevents the chiasm from being dismissed as pattern-finding?
+
+Evidence needed:
+
+- Studies on chiasm/inverted parallelism with clear criteria.
+- Examples where lexical correspondences organize larger phrasal or discourse structures.
+- Methodological cautions about overreading chiasm.
+
+### Transmission and reception
+
+Questions:
+
+- How do transfer verbs and communication verbs function together in Revelation 1:1-3?
+- How does `eiden` function as an extranuclear reception element?
+- How does the text show that transmission is actually received?
+
+Evidence needed:
+
+- Lexical sources on giving, sending, showing, signifying, testifying, and seeing.
+- Linguistic or semantic-field sources on transfer and communication.
+- Revelation-internal evidence for reception, testimony, and obedience.
+
+### Master-servant frame
+
+Questions:
+
+- How does `doulos` imply a master/servant or monarch/subject frame?
+- What textual evidence shows command, reception, consciousness, belief, or obedience?
+- Does Revelation's own use of `doulos` constrain the referent of the servants in 1:1?
+
+Evidence needed:
+
+- Usage of `doulos` in Revelation.
+- Usage of `kyrios` and related authority language in Revelation.
+- Studies on servants of God in Jewish apocalyptic, prophetic, and early Christian contexts.
 
 ## Open Research Questions
 

@@ -13,6 +13,11 @@
 - The grammatical plausibility of readings such as `iesou christou` meaning "about Jesus Christ" is treated as an established fact to document, not as the book's central thesis.
 - The system excludes `auto` as referring to Jesus Christ.
 - The system excludes "revelation" as the right translation of `apokalypsis`, because "revelation" entails prior hiddenness, unknownness, or concealment in a way the chiasm does not permit.
+- The terms surface form, elliptical form, and reduced form are all permitted, with distinct nuances.
+- The terms expanded form, non-elliptical form, and underlying form are all permitted, with distinct nuances.
+- Core verbal heads are contrasted with non-core verbal heads. `dei` and `genesthai` are non-core in this analysis.
+- The core verbal heads are `apokalypsis`, `edoken`, `deixai`, `esemanen`, `aposteilas`, `emartyresen`, and `eiden`.
+- The chiastic nucleus is `apokalypsis` / `edoken` / `deixai` / `esemanen` / `aposteilas` / `emartyresen`; `eiden` is extranuclear and belongs to reception.
 
 ## Provisional
 
