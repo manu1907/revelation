@@ -182,6 +182,34 @@ The frame includes:
 
 This frame must be demonstrated from the text rather than imposed on it.
 
+## John's Testimony And The Final Clause
+
+The final clause is not secondary. The book's system must explain how John's testimony relates to:
+
+- `ton logon tou theou`,
+- `ten martyrian iesou christou`,
+- `hosa eiden` or `hosa te eiden`,
+- what John heard,
+- what John saw.
+
+The working claim is that John testified to what he heard and saw.
+
+Research issue:
+
+- NA28/UBS5-type texts appear to read `hosa eiden`, without `te`.
+- Textus Receptus-type texts read `hosa te eiden`, with `te`.
+
+This must be handled explicitly because the presence or absence of `te` affects how the final phrase is coordinated with the preceding objects of testimony. The structural claim cannot depend on silently importing a TR reading into an NA28-based argument.
+
+Questions to answer:
+
+- Does `hosa eiden` summarize the word of God and testimony of Jesus Christ?
+- Does it stand in apposition to both preceding objects?
+- Does it add a visual reception component to heard testimony?
+- Does `ton logon tou theou` imply what John heard?
+- Does `ten martyrian iesou christou` imply what John heard, what John saw, or both?
+- How does `eiden` function as the extranuclear reception element if the surface text names only seeing?
+
 ## Immediate Interpretive Consequences
 
 The current system yields these conclusions:
@@ -190,6 +218,7 @@ The current system yields these conclusions:
 - The angel is Jesus Christ.
 - God is the giver and signifier.
 - The things that must take place are both shown and signified.
+- John testified to the word of God, the testimony of Jesus Christ, and what he saw; the relation to what he heard must be argued through `ton logon tou theou`, `ten martyrian iesou christou`, the final clause, and the presence/absence of `te`.
 - The sequence of events is not linear.
 - Sending precedes giving.
 - Showing and signifying have a chronological relation to be defined.

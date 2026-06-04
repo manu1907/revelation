@@ -24,6 +24,7 @@ Initial text-critical questions:
 
 - Are there variants in Revelation 1:1-3 that affect the argument?
 - Does any variant affect `apokalypsis iesou christou`, `edoken auto`, `deixai`, `esemanen`, `aposteilas`, `tois doulois autou`, or `en tachei`?
+- Does the presence or absence of `te` in `hosa/eiden` affect the claim that John testified to what he heard and saw?
 
 ## Claim Inventory
 
@@ -130,6 +131,23 @@ Evidence needed:
 - Explanation for treating `apokalypsis` as verbal in function.
 - Explanation for excluding `dei genesthai` from the core list.
 
+### Claim: John testified to what he heard and saw.
+
+Status: To develop.
+
+Evidence needed:
+
+- Analysis of `ton logon tou theou`.
+- Analysis of `ten martyrian iesou christou`.
+- Analysis of `hosa eiden` and the possible TR reading `hosa te eiden`.
+- Translation comparison of Revelation 1:2.
+- Commentary discussion of whether the final phrase summarizes the previous objects, adds a visual component, or restricts John's testimony to sight.
+- Revelation-internal evidence for John's hearing and seeing.
+
+Text-critical note:
+
+The presence or absence of `te` must be tracked. NA28/UBS5-type texts appear to omit `te`, while TR-type texts include it. The argument must be framed so that it does not depend on a reading that the chosen base Greek text does not print.
+
 ## Source Categories To Build
 
 - Greek grammars.
@@ -157,6 +175,11 @@ Columns to create later:
 - Handling of `esemanen`.
 - Handling of `aposteilas`.
 - Treatment of `eiden`.
+- Treatment of `ton logon tou theou`.
+- Treatment of `ten martyrian iesou christou`.
+- Presence/absence and treatment of `te`.
+- Relation of `hosa/eiden` to the preceding testimony objects.
+- Whether John is understood to testify to what he heard and saw.
 - Whether Revelation 1:1-3 is read linearly.
 - Whether the author identifies ellipsis.
 - Whether the author identifies structural symmetry.
