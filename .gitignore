@@ -15,6 +15,7 @@
 *.run.xml
 *.synctex.gz
 *.toc
+*-SAVE-ERROR
 
 # Generated PDFs
 src/main.pdf

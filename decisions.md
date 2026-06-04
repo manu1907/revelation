@@ -18,6 +18,8 @@
 - Core verbal heads are contrasted with non-core verbal heads. `dei` and `genesthai` are non-core in this analysis.
 - The core verbal heads are `apokalypsis`, `edoken`, `deixai`, `esemanen`, `aposteilas`, `emartyresen`, and `eiden`.
 - The chiastic nucleus is `apokalypsis` / `edoken` / `deixai` / `esemanen` / `aposteilas` / `emartyresen`; `eiden` is extranuclear and belongs to reception.
+- The manuscript uses `biblatex-chicago` note-style citations with `biber`.
+- Page-specific commentary claims must be footnoted with exact page references when possible.
 
 ## Provisional
 
@@ -33,7 +35,6 @@
 - Subtitle.
 - Greek base text.
 - Citation style.
-- Whether to use footnotes, endnotes, or both.
 - Whether to use transliteration throughout or only at first mention.
 - Whether to present the expanded form early as the system's thesis or later as the result of analysis.
 - How much of the critique of named experts belongs in the main text.

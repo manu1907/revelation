@@ -10,6 +10,8 @@ These sources were consulted to begin the commentary evidence table:
 - Brian J. Tabb, TGC Bible Commentary: Revelation, online.
 - `An Exegetical Summary of Revelation 1-11`, online excerpt.
 - NET notes and Mounce Reverse Interlinear public pages, as translation/reference controls rather than full commentary sources.
+- Henry Barclay Swete, `The Apocalypse of St John`, public-domain Internet Archive OCR via BiblicalStudies.org.uk source page.
+- R. H. Charles, `A Critical and Exegetical Commentary on the Revelation of St John`, public-domain Internet Archive OCR via Theological Commons / Online Books Page source pages.
 
 ## Sources Still Needed
 
@@ -19,8 +21,8 @@ Highest priority:
 - G. K. Beale, `The Book of Revelation`, NIGTC.
 - Craig R. Koester, `Revelation`, Anchor Yale Bible.
 - Robert H. Mounce, `The Book of Revelation`, NICNT.
-- H. B. Swete, `The Apocalypse of St John`.
-- R. H. Charles, `A Critical and Exegetical Commentary on the Revelation of St John`.
+- H. B. Swete, `The Apocalypse of St John`: page-image confirmation still needed after OCR extraction.
+- R. H. Charles, `A Critical and Exegetical Commentary on the Revelation of St John`: page-image confirmation still needed after OCR extraction.
 
 Secondary:
 
@@ -57,3 +59,4 @@ For each source, capture:
 - Use online previews only as temporary planning evidence unless the preview is stable enough for citation.
 - Do not cite pirate or questionable scans in the manuscript.
 - For copyrighted commentaries, paraphrase interpretive positions and quote only short, necessary phrases.
+- Follow `planning/citation-footnote-policy.md` for footnotes, bibliography entries, and citation keys.
