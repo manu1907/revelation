@@ -133,6 +133,18 @@ Use this order for commentary evidence:
 - `ubs2014gnt5`
 - `tabbTgcRevelation`
 - `netBibleRevelation1`
+- `bdf1961grammar`
+- `bdag2000lexicon`
+- `cruse1986lexicalSemantics`
+- `huddlestonPullum2002cgel`
+- `louwNida1989lexicon`
+- `lsj1996lexicon`
+- `lund1942chiasmus`
+- `porter1999idioms`
+- `runge2010discourseGrammar`
+- `smyth1956grammar`
+- `wallace1996grammar`
+- `welch1981chiasmusAntiquity`
 
 ## Warning
 

@@ -41,3 +41,19 @@ This ledger records page-level evidence before it enters the manuscript. A sourc
 | --- | --- | --- | --- | --- | --- |
 | NIV | Verified online for planning | Revelation 1:1-3 | Mainstream reader-facing translation; smooths the source chain as God-to-Jesus-to-angel-to-John. | Primary English comparison text. | Add print/edition bibliography data if citing formally. |
 | ESV, NRSVue, NASB 2020, CSB, NLT, NET, RSV, NABRE, KJV, NKJV | Verified online for planning | Revelation 1:1-3 | Broad convergence on the mainstream transmission chain, with important differences in `esemanen`, `en tachei`, and `te`. | Translation comparison appendix and Chapter 2. | Add formal edition data for translations cited in notes. |
+
+## Linguistic And Greek References
+
+| Source | Status | Pages / Location | Finding | Use In Manuscript | Next Step |
+| --- | --- | --- | --- | --- | --- |
+| BDAG | To verify | `apokalypsis`, `semaino`, `martyreo`, `martyria`, `logos`, `deiknymi`, `didomi`, `apostello`, `horao/eidon` | Lexical range for the core heads and final testimony terms. | Chapters 5, 9, 13, 14. | Check entries and record exact senses. |
+| LSJ | To verify | Same relevant lemmas | Wider Greek lexical control. | Chapters 5, 9, 13, 14. | Check entries and compare with BDAG. |
+| Louw-Nida | To verify | Semantic domains for disclosure, showing, signifying, testimony, seeing | Semantic-domain support for lexical grouping. | Chapters 5 and 7. | Check domain numbers and wording. |
+| Wallace | To verify | Genitive categories; participles; infinitives; ellipsis if relevant | NT Greek syntax support. | Chapters 2, 5, 6, 8, 14. | Record page-level findings. |
+| BDF | To verify | Ellipsis; genitives; infinitives; participles | Technical Greek grammar control. | Chapters 2, 5, 6, 8. | Record section numbers and pages. |
+| Smyth | To verify | General Greek control for ellipsis, genitives, participles, infinitives | Wider Greek grammar control. | Technical footnotes and appendices. | Record section numbers. |
+| Porter, `Idioms` | To verify | Infinitives, participles, syntax categories | NT Greek syntax control. | Chapters 5 and 6. | Record page-level findings. |
+| Runge, `Discourse Grammar` | To verify | Discourse relations and connectives if needed | Support for discourse-sensitive readings only where directly relevant. | Chapters 6, 7, 14. | Use selectively. |
+| Cruse, `Lexical Semantics` | To verify | Hyponymy and lexical relations | Support for transmission/reception grouping terminology. | Chapter 5 and Appendix E. | Record page-level definitions. |
+| Huddleston and Pullum, `Cambridge Grammar` | To verify | Ellipsis, heads/dependents, nominalization if needed | General-linguistic terminology; not Greek evidence. | Appendix E and brief technical footnotes. | Use only where Greek sources are insufficient. |
+| Lund and Welch | To verify | Chiasm definitions and method cautions | Define chiasm and inverted parallelism; guard against uncontrolled pattern claims. | Chapter 7. | Record page-level definitions and criteria. |
