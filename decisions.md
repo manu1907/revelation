@@ -22,6 +22,11 @@
 - Page-specific commentary claims must be footnoted with exact page references when possible.
 - The working Greek base text is NA28, with UBS5 used as a companion critical-text control.
 - The NIV is the working main English comparison text for reader-facing mainstream translation, while the broader translation set is used to establish convergence and difference.
+- The full expanded form should appear later, after the system has been established, not early as a full preview.
+- Greek terms should appear in Greek script with transliteration and gloss at first use in each chapter; after that, use transliteration unless the Greek script itself matters.
+- Named commentators should usually appear in footnotes, not in the main text. The main text should discuss patterns rather than seeming to criticize particular people.
+- The preface should include the genesis of the book so the reader understands the process that led to the argument.
+- The reader should feel that the book unfolds as a process, with each chapter building on the previous chapter.
 
 ## Provisional
 
@@ -35,9 +40,8 @@
 
 - Final title.
 - Subtitle.
-- Whether to use transliteration throughout or only at first mention.
-- Whether to present the expanded form early as the system's thesis or later as the result of analysis.
-- How much of the critique of named experts belongs in the main text.
+- Whether "disclosure" remains the final replacement rendering for `apokalypsis`.
+- Exact public-facing subtitle emphasis: Revelation, Greek, or interpretation method.
 
 ## Style Defaults
 

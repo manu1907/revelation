@@ -11,6 +11,7 @@ Core moves:
 - Introduce the problem of familiar translations.
 - Show how early decisions about agency, object, timing, and audience shape the reader's entire approach.
 - Present the book's central question: can the interpretive choices in these verses be governed by a rule-ordered system rather than by plausibility alone?
+- Mention that the book will argue for an expanded form, but do not display the full expanded form yet.
 
 ### Chapter 2: The Trouble With Plausible Readings
 
@@ -91,6 +92,7 @@ Purpose: Present the non-elliptical reconstruction.
 
 Core moves:
 
+- Present the full expanded form for the first time as the result of the system built in Chapters 5-7.
 - Display the reduced and expanded forms side by side.
 - Explain every supplied constituent.
 - Show how the expanded form changes agent, object, audience, and sequence.
@@ -205,3 +207,7 @@ Core moves:
 ### Appendix D: Commentator And Translator Comparison Table
 
 ### Appendix E: Linguistic Concepts Used In The Book
+
+## Progression Control
+
+See `planning/progressive-argument-flow.md`. Each chapter should solve one problem and create the need for the next chapter.

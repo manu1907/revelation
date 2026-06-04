@@ -92,11 +92,14 @@ Core methodological commitments:
 ## Style Principles
 
 - Explain every Greek or linguistic concept at the moment it becomes necessary.
+- At first technical use in each chapter, give Greek script, transliteration, and a short gloss; afterward, use transliteration unless the Greek script itself matters.
 - Avoid treating mainstream interpretations as foolish; show where they are plausible and why they are insufficient.
+- Keep named commentators mainly in footnotes. The main text should describe interpretive patterns rather than appear to criticize particular people.
 - Keep the reader oriented by distinguishing grammatical possibility from system-governed interpretation.
 - Use diagrams when structure matters.
 - Use short translated examples before technical discussion.
 - Build from the opening phrase outward rather than dumping the whole theory at once.
+- Let the reader experience the argument as a process, with each chapter building on the previous one.
 
 ## Open Questions
 
@@ -105,5 +108,3 @@ See `planning/author-questions.md` for the active question list.
 - What should the final title be?
 - Should the book use "Jesus Christ," "Christ," or "JC" in manuscript prose? Working default: "Jesus Christ."
 - How technical should the appendices be?
-- Should the expanded form be introduced early as the system's thesis or later as the result of analysis?
-- How much engagement with named commentators should appear in the main text versus notes?

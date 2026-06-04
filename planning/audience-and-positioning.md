@@ -19,8 +19,9 @@ Likely traits:
 What this reader needs:
 
 - Greek shown in small portions.
-- Transliteration near first appearances.
-- Literal glosses when the argument depends on word order or syntax.
+- Greek script with transliteration and a short gloss at first technical use in each chapter.
+- Transliteration afterward unless the Greek script itself matters.
+- Literal glosses when the argument depends on word order, syntax, or lexical contrast.
 - Diagrams for structure.
 - Clear distinctions between "possible," "mainstream," "argued here," and "excluded by the system."
 
@@ -77,6 +78,7 @@ Drafting response:
 
 - Be assertive about conclusions that the system reaches.
 - Be transparent about which parts are original, which are documented, and which require further verification.
+- Keep named engagement mainly in footnotes, with the main text focused on interpretive patterns and the system's reasoning.
 
 ## Positioning Statement
 
@@ -118,6 +120,7 @@ Main text should usually avoid:
 
 - Long strings of untranslated Greek.
 - Dense source surveys.
+- Naming commentators as targets of critique.
 - Extended grammar debates.
 - Multiple technical labels where one explanation will do.
 

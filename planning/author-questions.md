@@ -6,52 +6,60 @@ This file keeps open questions visible. Questions here are not blockers unless m
 
 ## Urgent For Drafting Chapter 1
 
-### 1. Expanded Form Placement
+No urgent drafting questions remain from the first author-question pass.
 
-Question:
+## Resolved
 
-- Should the expanded form appear early as a preview of the thesis, or should it appear only after Chapters 5-7 establish the system?
+### Expanded Form Placement
 
-Options:
+Decision:
 
-- Early preview: gives readers the destination quickly, but risks overwhelming them before they understand the rules.
-- Later reveal: preserves the argumentative build, but delays the book's most distinctive claim.
+- The full expanded form should appear later, after Chapters 5-7 establish the system. It is one of the book's distinctive conclusions, not an obvious starting point.
 
-Working recommendation:
+Drafting effect:
 
-- Preview the existence of the expanded form in Chapter 1, but do not print the full expanded form until Chapter 8.
+- Chapter 1 may say that the surface form is reduced and that the book will argue for an expanded form.
+- Chapter 1 should not print the full expanded form.
+- Chapter 8 presents the full expanded form as the result of the system.
 
-### 2. Greek And Transliteration
+### Greek, Transliteration, And Gloss
 
-Question:
+Decision:
 
-- Should Greek terms be transliterated every time, at first use in every chapter, or only at first use in the book?
+- At first technical use in each chapter, give Greek script, transliteration, and a short gloss.
+- After first use in the chapter, use transliteration unless the Greek script itself matters.
 
-Options:
+Reason:
 
-- Every time: easiest for general readers, but repetitive.
-- First use in every chapter: good balance for readers who dip in and out.
-- First use in the book only: cleaner prose, but harder for non-specialists.
+- Greek script keeps contact with the actual text.
+- Transliteration gives non-Greek readers a pronounceable handle they can remember.
+- The gloss tells the reader why the term matters in context.
 
-Working recommendation:
+### Naming Commentators
 
-- Transliterate at first use in every chapter and in every major table.
+Decision:
 
-### 3. Naming Commentators
+- The main text should not normally name commentators directly.
+- Main text should describe interpretive patterns.
+- Footnotes should identify representative sources and page references.
 
-Question:
+Reason:
 
-- How much should the main text name commentators directly when presenting mainstream readings?
+- The book argues a system. It should not appear to target particular people.
+- Named engagement remains available for documentation and accountability in the notes.
 
-Options:
+### Genesis Of The Book
 
-- Main text names representatives: transparent and concrete, but can feel source-heavy.
-- Main text summarizes patterns; footnotes name sources: smoother for general readers.
-- Hybrid: name major representatives only when the disagreement matters.
+Decision:
 
-Working recommendation:
+- The preface should include the genesis of the book: the dissatisfaction with familiar explanations, the turn to Greek, the discovery of ambiguity and ellipsis, and the need for an interpretation system.
 
-- Hybrid. Use the main text for patterns, name representatives when the argument turns on a specific decision, and use footnotes for the full source trail.
+### Processive Reading Experience
+
+Decision:
+
+- The reader should experience the book as a process of discovery.
+- Each chapter should build on the previous one and make the next chapter necessary.
 
 ## Important But Not Urgent
 

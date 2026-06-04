@@ -19,6 +19,8 @@ The chapter should show that each of those statements contains interpretive deci
 
 The opening verses are compressed. Their compression is not incidental. If the compression is ignored, translators and commentators must supply missing pieces. If those supplied pieces are not governed by a system, then the reading may become plausible but arbitrary.
 
+The chapter may preview that the book will argue for an expanded form beneath the reduced form, but it should not print the full expanded form. That reconstruction belongs later, after the reader has followed the system that produces it.
+
 ## Key Scenes Or Examples
 
 - A reader opening Revelation and being told from the first word what the book supposedly is.
@@ -36,7 +38,9 @@ The opening verses are compressed. Their compression is not incidental. If the c
 
 - Do not begin with a dense Greek data dump.
 - Do not attack commentators generally.
+- Do not name commentators in the main text unless absolutely necessary; put representative names and page references in footnotes.
 - Do not claim the whole consensus is wrong before showing why the issue matters.
+- Do not display the full expanded form in this chapter.
 
 ## Draft Opening Possibility
 

@@ -54,15 +54,15 @@ For claims still needing verification:
 
 Working default:
 
-- Give Greek at first technical discussion.
-- Give transliteration immediately after the Greek when the reader needs to recognize the term later.
-- Use italicized transliteration in prose.
+- At first technical use in each chapter, give Greek script, transliteration, and a short gloss.
+- After first use in a chapter, use transliteration unless the Greek script itself matters.
+- Use italicized transliteration and glosses in prose.
 - Use code style in planning files only.
 
 Example manuscript pattern:
 
 ```latex
-The opening word is \textgreek{ἀποκάλυψις} (\textit{apokalypsis}), a noun that must be tested for verbal force before it is treated as a static title.
+The opening word is \textgreek{ἀποκάλυψις} (\textit{apokalypsis}, \textit{disclosure}), a noun that must be tested for verbal force before it is treated as a static title.
 ```
 
 The LaTeX preamble defines `\textgreek{...}` and loads `textalpha`/`alphabeta` for lightweight Greek support under pdfLaTeX.
@@ -93,11 +93,19 @@ Preferred sequence:
 
 This order keeps the critique serious and prevents the book from sounding like it is rejecting consensus before understanding it.
 
+Main-text rule:
+
+- Do not normally name commentators in the main text.
+- Use phrases such as "many commentators," "a common reading," "representative translations," or "the mainstream pattern."
+- Put names, works, and page references in footnotes.
+- Name a source in the main text only if the identity of that source becomes part of the argument, which should be rare.
+
 ## Footnotes
 
 Use footnotes for:
 
 - named source claims,
+- representative commentary patterns,
 - grammar and lexicon support,
 - textual variants,
 - side debates that would slow the main argument.
