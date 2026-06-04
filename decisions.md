@@ -20,6 +20,8 @@
 - The chiastic nucleus is `apokalypsis` / `edoken` / `deixai` / `esemanen` / `aposteilas` / `emartyresen`; `eiden` is extranuclear and belongs to reception.
 - The manuscript uses `biblatex-chicago` note-style citations with `biber`.
 - Page-specific commentary claims must be footnoted with exact page references when possible.
+- The working Greek base text is NA28, with UBS5 used as a companion critical-text control.
+- The NIV is the working main English comparison text for reader-facing mainstream translation, while the broader translation set is used to establish convergence and difference.
 
 ## Provisional
 
@@ -33,8 +35,6 @@
 
 - Final title.
 - Subtitle.
-- Greek base text.
-- Citation style.
 - Whether to use transliteration throughout or only at first mention.
 - Whether to present the expanded form early as the system's thesis or later as the result of analysis.
 - How much of the critique of named experts belongs in the main text.

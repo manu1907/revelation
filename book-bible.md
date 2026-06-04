@@ -100,10 +100,10 @@ Core methodological commitments:
 
 ## Open Questions
 
+See `planning/author-questions.md` for the active question list.
+
 - What should the final title be?
 - Should the book use "Jesus Christ," "Christ," or "JC" in manuscript prose? Working default: "Jesus Christ."
-- Which Greek base text will be cited?
-- What citation style will be used?
 - How technical should the appendices be?
 - Should the expanded form be introduced early as the system's thesis or later as the result of analysis?
 - How much engagement with named commentators should appear in the main text versus notes?
