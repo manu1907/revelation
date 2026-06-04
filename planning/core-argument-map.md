@@ -210,6 +210,10 @@ Questions to answer:
 - Does `ten martyrian iesou christou` imply what John heard, what John saw, or both?
 - How does `eiden` function as the extranuclear reception element if the surface text names only seeing?
 
+Working file:
+
+- `planning/final-testimony-and-te.md`
+
 ## Immediate Interpretive Consequences
 
 The current system yields these conclusions:

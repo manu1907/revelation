@@ -156,6 +156,8 @@ Working files:
 
 - `planning/commentary-evidence-starter.md`
 - `planning/commentary-sources.md`
+- `planning/final-testimony-and-te.md`
+- `chapter-notes/chapter-14.md`
 
 ## Immediate Warnings
 
