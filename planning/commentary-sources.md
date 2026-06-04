@@ -60,3 +60,5 @@ For each source, capture:
 - Do not cite pirate or questionable scans in the manuscript.
 - For copyrighted commentaries, paraphrase interpretive positions and quote only short, necessary phrases.
 - Follow `planning/citation-footnote-policy.md` for footnotes, bibliography entries, and citation keys.
+- Follow `planning/source-access-log.md` for what has been directly checked versus what remains a secondary lead.
+- Follow `planning/page-reference-ledger.md` before moving any commentary claim into a chapter footnote.

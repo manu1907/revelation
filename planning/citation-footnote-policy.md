@@ -73,6 +73,8 @@ For multi-volume works, include volume if needed:
 
 For online sources, use `urldate` in `main.bib` and cite the source key. If the online source has stable section headings but no pages, name the section in the footnote text.
 
+Before adding a commentary footnote to a chapter, record the page-specific finding in `planning/page-reference-ledger.md`. The ledger should say whether the passage is verified directly, checked only in a preview, checked only through OCR, or still only a secondary lead.
+
 ## Source Tiers
 
 Argument sources:
@@ -108,6 +110,13 @@ Orientation sources may guide lookup, but they should not carry the book's argum
 3. Record page-specific findings in the evidence matrix.
 4. Insert footnotes only after the page-specific claim is verified.
 5. Keep source paraphrases in planning files and cite exact pages in chapter drafts.
+
+Use this order for commentary evidence:
+
+- `planning/source-access-log.md` records whether we have legitimate access to the source.
+- `planning/page-reference-ledger.md` records the page-level finding.
+- `planning/commentary-evidence-starter.md` records the interpretive pattern across sources.
+- Chapter drafts cite the source only after the ledger entry is strong enough for manuscript use.
 
 ## Current Citation Keys
 
