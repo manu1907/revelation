@@ -250,3 +250,6 @@ Evidence needed:
 - Which translations are most transparent about the ambiguities?
 - Are there historical interpretations that anticipate the proposed expanded form?
 - How should "signified" be explained without reducing Revelation to arbitrary symbolism?
+- Which serious commentary sources treat `semaino` as signifying/symbolic communication rather than generic disclosure?
+- Does any representative source identify the lexical pattern among `apokalypsis`, `edoken`, `deixai`, `esemanen`, `aposteilas`, and `emartyresen`?
+- Does any representative source discuss the presence or absence of `te` in connection with John's testimony?

@@ -1,0 +1,56 @@
+# Commentary Evidence Starter
+
+## Purpose
+
+This file starts the commentary comparison table. It uses serious sources for exegetical claims and marks verification status explicitly.
+
+Do not treat a commentary row as final until it has page-level verification from the actual book, a publisher preview, or another reliable source that gives enough context.
+
+## Verification Levels
+
+- Verified: checked directly in the source or a publisher/authorized preview.
+- Partially verified: checked in an accessible excerpt, preview, or serious secondary summary, but still needs book-level confirmation.
+- To verify: included because it belongs in the representative corpus, but the row should not be cited yet.
+- Reception only: useful for showing popular or pastoral reception, not for proving the Greek argument.
+
+## Starter Table
+
+| Source | Status | Type | `apokalypsis iesou christou` | `apokalypsis` meaning | `auto` | `deixai` subject | Servants | `en tachei` | `esemanen` | `aposteilas` / angel | Word/testimony/final clause | Linear chain | Ellipsis/structure | Method note |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| Grant R. Osborne, BECNT Revelation | Verified from preview; confirm in print | Technical evangelical commentary | Subjective/source: "from Jesus Christ"; rejects objective/about as contextual decision | Uncovering formerly hidden truths; future/end-history focus | Jesus Christ | Jesus Christ, with God and Jesus acting together in showing | Christian communities / believers as recipients | "Soon" preferred, though swiftness option noted | Made known; not foregrounded as structural ellipsis in preview | Four-stage movement: God -> Jesus -> angel(s) -> John -> churches | John bears witness to word/testimony, namely/all that he saw | Yes | No chiasm noted in checked preview | Strong representative of mainstream chain and hidden-revelation semantics. |
+| Grant R. Osborne, Revelation Verse by Verse | Verified from preview; confirm in print | Pastoral/exegetical commentary | "from Jesus Christ" | Hidden secrets/mysteries uncovered | Jesus Christ | Jesus Christ / God and Jesus together | Christians as God's special possession/slaves | More likely temporal "soon"; allows sudden/swift possibility | Not central in accessible excerpt | Four-stage movement: God -> Jesus -> angels -> John -> churches | To check | Yes | No chiasm noted in checked preview | Useful because the same author presents the BECNT view in more popular form. |
+| G. K. Beale and David H. Campbell, Revelation: A Shorter Commentary | Verified from accessible PDF excerpt; confirm against book | Shorter technical/theological commentary | To check in full | To check in full | To check | To check | To check | To check | `semaino` means symbolic communication, not mere information transfer; tied to Daniel 2 and parallel with `deiknymi` | To check | To check | Not the simple linear point checked; symbolic mode is programmatic | No chiasm in checked excerpt | Crucial ally/opponent for `esemanen`: supports signifying/symbolic communication but still needs comparison with the book's structural claim. |
+| Brian J. Tabb, TGC Bible Commentary: Revelation | Verified online | Accessible scholarly/pastoral commentary | May be from, about, or both | Christ unveils previously unknown/unseen divine mysteries | Jesus Christ | Jesus Christ | Fellow servants/believers | Soon/near; imminent | Made known by chain; not a structural focus | God gives to Christ; Christ sends angel to John; John writes to believers | John as eyewitness testifying to what he saw | Yes | No ellipsis or chiasm noted | Good reception witness from a serious evangelical public commentary. |
+| An Exegetical Summary of Revelation 1-11 | Verified online excerpt; confirm source provenance | Exegetical reference/survey | Not in checked excerpt | Not in checked excerpt | Not in checked excerpt | Not in checked excerpt | Not in checked excerpt | Not in checked excerpt | Lists lexical options: make known, communicate, indicate clearly, signify; notes `semaino` can mean make known by signs | Notes disagreement over `dia` and `aposteilas`; records that many construe "by sending his angel"; records many identify angel as Jesus Christ's | Begins lexical discussion of `emartyresen`; more to check | Mostly reports mainstream parsing | It explicitly asks who the implied actor of `esemanen` is and how `aposteilas` functions | Useful as a map of existing options; not a substitute for checking the named commentaries directly. |
+| David E. Aune, WBC Revelation 1-5 | To verify | Technical historical-critical commentary | To check | To check | To check | To check | To check | To check | To check | Search snippets associate WBC with "Jesus Christ made the revelation known by sending his angel"; verify in book | To check | Probably mainstream chain; verify | To check | Priority source because Osborne cites Aune for "from Jesus Christ." |
+| G. K. Beale, NIGTC Revelation | To verify | Technical Greek/intertextual commentary | To check | To check | To check | To check | To check | To check | To check, likely important because shorter commentary emphasizes `semaino` as symbolic communication | To check | To check | To check | To check | Priority source because of Greek, Daniel 2, and symbolic mode. |
+| Craig R. Koester, Anchor Yale Revelation | To verify | Technical academic commentary | To check | To check | To check | To check | To check | To check | To check | To check | To check | To check | To check | Priority source for historical-literary and reception-aware reading. |
+| Robert H. Mounce, NICNT Revelation | Partially verified through secondary/public references; confirm in book | Influential evangelical commentary | Mediated by Jesus rather than primarily revelation of Jesus himself; verify wording | To check | Jesus Christ likely; verify | To check | To check | Associated in secondary discussion with non-simple temporal imminence; verify | To check | To check | To check | Likely mainstream chain; verify | To check | Must be checked directly because current data is not enough for citation. |
+| H. B. Swete, Commentary on Revelation | To verify | Older critical commentary | To check; cited by Osborne for "from Jesus Christ" | To check | To check | To check | To check | To check | To check | To check | To check | To check | To check | Important older source and possible influence on later commentaries. |
+| R. H. Charles, ICC Revelation | To verify | Older technical critical commentary | To check | To check | To check | To check | To check | To check | To check | To check | To check | To check | To check | Important historical-critical control source. |
+| Richard Bauckham, Theology/Climax of Prophecy | To verify | Monograph/theology, not verse-by-verse commentary | Not primary for each phrase | Not primary for each phrase | Not primary for each phrase | Not primary for each phrase | Not primary for each phrase | Not primary for each phrase | To check if relevant to symbolic communication | To check if relevant to angel mediation | To check for testimony/witness themes | Not a row for every phrase unless directly relevant | To check | Use selectively for structure, theology, symbolism, and witness themes. |
+
+## Early Commentary Patterns
+
+- Mainstream technical and pastoral witnesses commonly read Revelation 1:1-3 as a linear chain: God -> Jesus Christ -> angel -> John -> servants/churches.
+- `auto` is normally taken as Jesus Christ when the source assumes that chain.
+- `deixai` is normally supplied with Jesus Christ as subject, sometimes with God and Jesus acting together.
+- `apokalypsis` is commonly understood as revelation/disclosure of hidden or formerly unknown divine realities.
+- `en tachei` is commonly read temporally as "soon," though several sources acknowledge a swiftness/suddenness option.
+- `esemanen` is a key pressure point. Many translations flatten it to "made known," but Beale's shorter commentary argues for symbolic/signifying communication.
+- The final testimony clause is often treated as John testifying to what he saw, with the word of God and testimony of Jesus Christ taken as the content or scope of that witness.
+
+## Immediate Research Tasks
+
+- Check Aune, WBC Revelation 1-5, on Revelation 1:1-3.
+- Check Beale, NIGTC Revelation, on `apokalypsis`, `semaino`, Daniel 2, `deiknymi`, and `en tachei`.
+- Check Koester, Anchor Yale Revelation, on the prologue and testimony language.
+- Check Osborne BECNT in print or stable ebook for full notes after the preview excerpt.
+- Check Mounce NICNT directly for `apokalypsis`, `en tachei`, and the final clause.
+- Check Swete and Charles for older critical treatment of `auto`, `semaino`, and `aposteilas`.
+- Check whether any representative source notices ellipsis in `esemanen` or `aposteilas`.
+- Check whether any representative source identifies lexical or phrasal symmetry in Revelation 1:1-2.
+
+## Warning
+
+The serious-source table should not be filled from memory. If a source is not directly checked, mark it "to verify." Popular web commentaries can be used later as reception evidence, but they should not carry the linguistic argument.

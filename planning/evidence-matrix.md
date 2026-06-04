@@ -152,6 +152,11 @@ Then add:
 - Swete or Charles.
 - Bauckham where relevant.
 
+Working files:
+
+- `planning/commentary-evidence-starter.md`
+- `planning/commentary-sources.md`
+
 ## Immediate Warnings
 
 - Do not overquote copyrighted translations or commentaries. Record interpretive decisions mostly in paraphrase.
