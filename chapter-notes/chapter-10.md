@@ -6,14 +6,14 @@ State the agency consequences of the expanded form.
 
 ## Core Argument
 
-`Auto` refers to John, not Jesus Christ. God is the giver, shower, and signifier. The angel in the sending phrase is identified with Jesus Christ through the B / B' transfer pair.
+`Auto` refers to John, not Jesus Christ. God is the giver, the one who shows, and the signifier. The angel in the sending phrase is identified with Jesus Christ through the B / B' transfer pair.
 
 ## Required Moves
 
 - Explain why the familiar `auto = Jesus Christ` reading is coherent but not structurally governed.
 - Use the B / B' pair to identify John as the recipient of what God gives.
 - Reassess `deixai` after `auto` is no longer Jesus Christ.
-- Use the C / C' pair and the explicit subject `ho theos` to identify God as shower and signifier.
+- Use the C / C' pair and the explicit subject `ho theos` to identify God as the one who shows and signifies.
 - State the revised communication model.
 - End by making the identity of the servants necessary.
 
