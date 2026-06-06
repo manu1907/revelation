@@ -20,8 +20,8 @@ This file records attempts to access high-priority sources. It prevents repeated
 | Koester, `Revelation` Anchor Yale | Secondary lead / bibliographic | Themelios review confirms importance, approach, and that title/introduction to the book begins at p. 209; other secondary excerpts cite Koester p. 211 for the source-chain reading of `apokalypsis iesou christou`. | Direct p. 209-211 and comments on 1:1-3, especially testimony language and `semaino`. |
 | Mounce, `The Book of Revelation` NICNT | Publisher preview + secondary lead | Perlego preview confirms prologue material and revised edition metadata. Secondary excerpts attribute to Mounce the view that the work is mediated by Jesus rather than chiefly about Jesus and discuss his approach to `en tachei`. | Direct p. 40-41 and the note/exposition on Revelation 1:1-3. |
 | Osborne, `Revelation` BECNT | Direct preview | Perlego preview gives substantial direct context for Rev 1:1-3. | Print or stable ebook confirmation with page numbers. |
-| Swete, `The Apocalypse of St John` | Direct public-domain OCR | OCR gives substantial prologue and Rev 1:1 notes. | Page-image confirmation and exact page numbers. |
-| Charles, `Revelation of St John` ICC | Direct public-domain OCR | OCR gives substantial prologue structure and Rev 1:1 notes. | Page-image confirmation and exact page numbers. |
+| Swete, `The Apocalypse of St John` | Direct public-domain OCR | OCR gives substantial prologue and Rev 1:1 notes; title page identifies the checked edition as Macmillan, third edition, 1917; relevant commentary pages are pp. 1--3. | Page-image confirmation before exact quotation. |
+| Charles, `Revelation of St John` ICC | Direct public-domain OCR | OCR gives substantial prologue structure and Rev 1:1 notes; relevant vol. 1 locations are pp. 1 and 5--7. | Page-image confirmation before exact quotation. |
 
 ## Search Notes
 
